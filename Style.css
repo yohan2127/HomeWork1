@@ -1,0 +1,192 @@
+
+#header {
+	  overflow: hidden;
+	  background-color:#fff;
+	  position: fixed;
+	  top: 0;
+	  height:140px;
+	  width: 100%;
+	  z-index:10;
+	  margin-bottom:139px;
+	  }
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 800;  
+	background-color:	#D3D3D3;	
+     }  
+.container {
+    width: 80%;
+	margin: 0 auto;
+	}
+
+nav {
+	 float: right;
+	}
+nav ul {
+	  margin: 0;
+	  padding: 0;
+	  list-style: none;
+	  position:relative;
+	  top:100px;
+	}
+nav li {
+	  display: inline-block;
+	  margin-left: 20px;
+	  padding-right: 20px;
+	 
+	}
+nav li.VerticalRight{ 
+       border-right:1px solid #DCDCDC
+	   }
+
+nav a {
+	  color: #444;
+	  text-decoration: none;
+	  font-size: 14px;
+	}
+h1, p {
+		color: #777;
+		background-color: #ebebeb
+		}
+.MyName {
+	float: left; 
+	background-color:#4aaaa5;
+	padding:40px ;  
+	color:#fff;
+	margin-bottom:0px !important;
+	}
+
+
+/*.....Home....*/
+
+.TopFooterHome{
+	background-color:#4aaaa5;
+	width:80%;
+	height:10px;
+	margin:0px 10% 0 10%;
+    padding:0px 5%; 
+    width:960px;	
+	  } 
+	  
+aside {
+	   
+	 float: left;
+			
+	}
+
+aside > img {
+	margin-right:20px
+	}
+.aboutMe {
+	color:#4aaaa5;
+	}
+.aboutMeContiainer  {
+	background-color:	#fff;
+	margin:150px 10% 80px 10%; 	  
+	padding:20px 5%; 
+	color:#777;
+	font-size: 12px;
+	width:960px;
+	  
+	}
+footer.Home{
+	text-align:center;
+	Background-color:#808080;
+	color:#fff;
+	margin:0px 10% 0 10%; 
+	padding:20px 5%;
+	width:960px;
+	  }	
+
+
+		
+		
+/*.................Portfolio............*/
+
+.Portfolio {
+		color:#4aaaa5;
+		text-align:left;
+		padding-left:100px;
+}
+.PortfolioContainer  {
+  background-color:	#fff;
+  margin:150px 10% 30px 10%; 	
+  /*margin:150px 350px 30px 250px; */
+  padding:20px 5%;  
+  color:#777 !important;
+  font-size: 12px;
+  width: 960px;  
+}
+.TopFooterPortfolio{
+  background-color:#4aaaa5!important;  
+  height:10px;
+  margin:0 10% 0 10%;
+  padding-left:5%;
+  padding-right:5%;
+  width: 960px;
+  
+  }
+	
+img{margin:20px;}
+#PortfolioTab{
+	margin-top:20px;
+	Background-color:#fff;
+	        }
+.containerBody {
+    position: relative;
+    font-family: Arial;
+}
+.text-block {
+    position: absolute;
+    bottom: 30px;   
+    background-color: #4aaaa5 !important;
+    color: white !important;
+    padding-left: 10px;
+    padding-right: 10px;
+	width:380px;
+	margin:20px;
+	text-align:center;	
+}
+.text-block p { 
+		background-color:#4aaaa5;
+		color:#fff;
+}
+
+.PortfolioFooter{
+  text-align:center;
+  Background-color:#808080;
+  color:#fff;  
+  margin:0 10% 0 10%;
+   padding:20px 5%;
+  width:960px;
+  }
+  
+
+/*.......Form........*/
+
+.ContactContainer {
+	margin:170px 10% 0 10%; ; 
+	background-color:#fff;
+	padding:20px 5%;
+	width:960px;}
+ .Contact{
+	 color:#4aaaa5; 
+	 font-weight:bold;}
+ .TopFooterForm {  
+			  margin:80px 10% 0 10%;
+			  background-color:#4aaaa5;
+			  width:960px;
+			  height:10px;
+			  padding-left:5%;
+              padding-right:5%;
+			  
+  }
+  .FormFooter{
+  text-align:center;
+  Background-color:#808080;
+  color:#fff;  
+  margin:0 10% 0 10%;
+   padding:20px 5%;
+  width:960px;
+  }
