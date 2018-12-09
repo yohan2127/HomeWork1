@@ -86,10 +86,10 @@ aside > img {
 .aboutMeContiainer  {
 	background-color:	#fff;
 	margin:150px 10% 80px 10%; 	  
-	padding:20px 5%; 
+	padding:20px 30px; 
 	color:#777777;
 	font-size: 12px;
-	width:960px;
+	width:900px;
     font-family:Arial', 'Helvetica Neue', Helvetica, sans-serif;	
 	  
 	}
@@ -98,8 +98,9 @@ footer.Home{
 	Background-color:#666666;
 	color:#fff;
 	margin:0px 10% 0 10%; 
-	padding:20px 5%;
-	width:960px;
+	padding:20px 30px;
+	width:900px;
+	border-top: 8px solid #4aaaa5;
 	  }	
 
 
@@ -116,18 +117,18 @@ footer.Home{
   background-color:	#fff;
   margin:150px 10% 30px 10%; 	
   /*margin:150px 350px 30px 250px; */
-  padding:20px 5%;  
+  padding:20px 30px;  
   color:#777777;
   font-size: 12px;
-  width: 960px;  
+  width: 900px;  
 }
 .TopFooterPortfolio{
   background-color:#4aaaa5!important;  
   height:10px;
   margin:0 10% 0 10%;
-  padding-left:5%;
-  padding-right:5%;
-  width: 960px;
+  padding-left:30px;
+  padding-right:30px;
+  width: 900px;
   
   }
 	
@@ -161,8 +162,9 @@ img{margin:20px;}
     Background-color:#666666;
     color:#fff;  
     margin:0 10% 0 10%;
-    padding:20px 5%;
-    width:960px;
+    padding:20px 30px;
+    width:900px;
+	border-top: 8px solid #4aaaa5;
   }
   
 
@@ -171,8 +173,8 @@ img{margin:20px;}
 .ContactContainer {
 	margin:150px 10% 0 10%; ; 
 	background-color:#fff;
-	padding:20px 5%;
-	width:960px;}
+	padding:20px 30px;
+	width:900px;}
  .Contact{
 	 color:#4aaaa5; 
 	 font-weight:bold;
@@ -192,6 +194,7 @@ img{margin:20px;}
 	Background-color:#666666;
 	color:#fff;  
 	margin:0 10% 0 10%;
-	padding:20px 5%;
-	width:960px;
+	padding:20px 30px;
+	width:900px;
+	border-top: 8px solid #4aaaa5;
   }
