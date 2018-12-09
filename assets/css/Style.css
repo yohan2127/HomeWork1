@@ -66,7 +66,8 @@ h1, p {
 	height:10px;
 	margin:0px 10% 0 10%;
     padding:0px 5%; 
-    width:960px;	
+    width:960px;
+    
 	  } 
 	  
 aside {
@@ -86,14 +87,15 @@ aside > img {
 	background-color:	#fff;
 	margin:150px 10% 80px 10%; 	  
 	padding:20px 5%; 
-	color:#777;
+	color:#777777;
 	font-size: 12px;
 	width:960px;
+    font-family:Arial', 'Helvetica Neue', Helvetica, sans-serif;	
 	  
 	}
 footer.Home{
 	text-align:center;
-	Background-color:#808080;
+	Background-color:#666666;
 	color:#fff;
 	margin:0px 10% 0 10%; 
 	padding:20px 5%;
@@ -115,7 +117,7 @@ footer.Home{
   margin:150px 10% 30px 10%; 	
   /*margin:150px 350px 30px 250px; */
   padding:20px 5%;  
-  color:#777 !important;
+  color:#777777;
   font-size: 12px;
   width: 960px;  
 }
@@ -150,17 +152,17 @@ img{margin:20px;}
 	text-align:center;	
 }
 .text-block p { 
-		background-color:#4aaaa5;
-		color:#fff;
+    background-color:#4aaaa5;
+    color:#fff;
 }
 
 .PortfolioFooter{
-  text-align:center;
-  Background-color:#808080;
-  color:#fff;  
-  margin:0 10% 0 10%;
-   padding:20px 5%;
-  width:960px;
+    text-align:center;
+    Background-color:#666666;
+    color:#fff;  
+    margin:0 10% 0 10%;
+    padding:20px 5%;
+    width:960px;
   }
   
 
@@ -177,19 +179,19 @@ img{margin:20px;}
 	 text-align:left;
 	}
  .TopFooterForm {  
-			  margin:80px 10% 0 10%;
-			  background-color:#4aaaa5;
-			  width:960px;
-			  height:10px;
-			  padding-left:5%;
-              padding-right:5%;
+	margin:80px 10% 0 10%;
+    background-color:#4aaaa5;
+    width:960px;
+	height:10px;
+	padding-left:5%;
+    padding-right:5%;
 			  
   }
   .FormFooter{
-  text-align:center;
-  Background-color:#808080;
-  color:#fff;  
-  margin:0 10% 0 10%;
-   padding:20px 5%;
-  width:960px;
+	text-align:center;
+	Background-color:#666666;
+	color:#fff;  
+	margin:0 10% 0 10%;
+	padding:20px 5%;
+	width:960px;
   }
