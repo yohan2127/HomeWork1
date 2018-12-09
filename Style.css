@@ -80,6 +80,8 @@ aside > img {
 	}
 .aboutMe {
 	color:#4aaaa5;
+	text-align:left;
+    padding-left:100px;
 	}
 .aboutMeContiainer  {
 	background-color:	#fff;
@@ -172,7 +174,9 @@ img{margin:20px;}
 	width:960px;}
  .Contact{
 	 color:#4aaaa5; 
-	 font-weight:bold;}
+	 font-weight:bold;
+	 text-align:left;
+	padding-left:100px;}
  .TopFooterForm {  
 			  margin:80px 10% 0 10%;
 			  background-color:#4aaaa5;
