@@ -4,11 +4,13 @@
 	  background-color:#fff;
 	  position: fixed;
 	  top: 0;
+	  left:500;
 	  height:140px;
 	  width: 100%;
 	  z-index:10;
 	  margin-bottom:139px;
 	  border-bottom:5px solid #cccccc ;
+	  
 	  }
 
 body {
@@ -103,6 +105,8 @@ footer.Home{
 	padding:20px 30px;
 	width:900px;
 	border-top: 8px solid #4aaaa5;
+	position:fixed;
+	bottom:0px;
 	  }	
 
 
@@ -117,7 +121,7 @@ footer.Home{
 }
 .PortfolioContainer  {
   background-color:	#fff;
-  margin:150px 10% 30px 10%; 	
+  margin:150px 10% 100px 10%; 	
   /*margin:150px 350px 30px 250px; */
   padding:20px 30px;  
   color:#777777;
@@ -134,7 +138,7 @@ footer.Home{
   
   }
 	
-img{margin:20px;}
+img{margin:15px;}
 #PortfolioTab{
 	margin-top:20px;
 	Background-color:#fff;
@@ -167,6 +171,8 @@ img{margin:20px;}
     padding:20px 30px;
     width:900px;
 	border-top: 8px solid #4aaaa5;
+    position:fixed;
+	bottom:0px;
   }
   
 
@@ -199,4 +205,6 @@ img{margin:20px;}
 	padding:20px 30px;
 	width:900px;
 	border-top: 8px solid #4aaaa5;
+	position:fixed;
+	bottom:0px;
   }
