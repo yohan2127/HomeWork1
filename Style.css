@@ -81,8 +81,7 @@ aside > img {
 .aboutMe {
 	color:#4aaaa5;
 	text-align:left;
-    padding-left:100px;
-	}
+    	}
 .aboutMeContiainer  {
 	background-color:	#fff;
 	margin:150px 10% 80px 10%; 	  
@@ -109,7 +108,7 @@ footer.Home{
 .Portfolio {
 		color:#4aaaa5;
 		text-align:left;
-		padding-left:100px;
+		
 }
 .PortfolioContainer  {
   background-color:	#fff;
@@ -176,7 +175,7 @@ img{margin:20px;}
 	 color:#4aaaa5; 
 	 font-weight:bold;
 	 text-align:left;
-	padding-left:100px;}
+	}
  .TopFooterForm {  
 			  margin:80px 10% 0 10%;
 			  background-color:#4aaaa5;
